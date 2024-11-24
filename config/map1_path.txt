@@ -1,0 +1,4 @@
+start: 256 1024
+path: 256 1408 1024
+path_x_y: y x y
+end: 1408 256
